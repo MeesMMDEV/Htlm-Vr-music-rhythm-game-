@@ -25,10 +25,11 @@ To get the game running on your machine, follow the steps below:
 ### 1. Clone the Repository
 
 Start by cloning the repository to your local machine:
+If this does not work please contact meesissuckatgaming@gmail.com
 
 ```bash
 git clone https://github.com/MeesMMDEV/Htlm-Vr-music-rhythm-game-
 cd chaos-crew-vr-game
 
-If this does not work please contact meesissuckatgaming@gmail.com
+
 
