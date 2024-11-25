@@ -1,5 +1,6 @@
 # Htlm-Vr-music-rhythm-game-
 # Made By Chaos Crew
+Look at #Projects to play the game
 
 Welcome to the **a music-rhythm-game**! This is a simple but fun virtual reality (VR) game built with **A-Frame** and **WebXR**. The game features a variety of gameplay mechanics, including interaction with 3D objects, a scoring system, and immersive environments. It’s designed to be played using a VR headset, such as the **Oculus Quest 3**.
 
